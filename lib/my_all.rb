@@ -1,6 +1,6 @@
 require 'pry'
 
-def my_all?([1,2,3]) {|i| i < 2}
+def my_all?(
 i = 0
 while i < 3
   yield(1)
